@@ -29,3 +29,6 @@ Hello, this github repository is used to maintain your aternos server 24/7, free
 ----------------
 
 🎮🥇I hope it helps you!!!!!🥇🎮
+
+
+https://github.com/jodesesp/Aternos-24-7/blob/main/Captura%20de%20pantalla%202022-07-26%20151638.png
